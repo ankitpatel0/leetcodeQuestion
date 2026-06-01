@@ -1,6 +1,46 @@
-import java.util.*;
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> result = new ArrayList<>();
+        dfs(root, 0, result);
+        return result;
+    }
+
+    private void dfs(TreeNode node, int level, List<List<Integer>> result) {
+        if (node == null)
+            return;
+
+        // Create new level if needed
+        if (result.size() == level) {
+            result.add(new ArrayList<>());
+        }
+
+        // Add current node to its level
+        result.get(level).add(node.val);
+
+        // Recurse for left and right
+        dfs(node.left, level + 1, result);
+        dfs(node.right, level + 1, result);
+    }
+}
+
+
+
+/*class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
 
         List<List<Integer>> result = new ArrayList<>();
@@ -37,7 +77,7 @@ class Solution {
 
         return result;
     }
-}
+}*/
 
 
 
