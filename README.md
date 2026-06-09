@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +52,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
