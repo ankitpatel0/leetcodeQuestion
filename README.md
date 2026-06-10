@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0787-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
