@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
+| [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
 ## Tree
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
