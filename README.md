@@ -30,6 +30,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
