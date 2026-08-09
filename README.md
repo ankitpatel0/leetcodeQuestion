@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
