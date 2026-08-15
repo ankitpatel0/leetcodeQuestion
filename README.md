@@ -32,6 +32,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
