@@ -8,14 +8,12 @@ class Solution {
                 k++;
             }
         }
-        for(int i =0;i<k;i++){
+        for(int i =0;i<nums.length;i++){
             nums[i] = temp[i];
         }
-        for(int i =k;i<nums.length;i++){
-            nums[i]= 0;
-        }
-
-
+        // for(int i =k;i<nums.length;i++){
+        //     nums[i]= 0;
+        // }
     }
 }
 
