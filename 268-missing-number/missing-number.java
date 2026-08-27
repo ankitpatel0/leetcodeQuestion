@@ -1,8 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
+         int xor = n;
 
-        for(int i =1;i<=n;i++){
+        for (int i = 0; i < n; i++) {
+            xor = xor ^ i ^ nums[i];
+        }
+
+        return xor;
+
+     
+     
+     
+      /*  for(int i =1;i<=n;i++){
             int flag=0;
             for(int j =0;j<n;j++){
                 if(nums[j] ==i){
@@ -14,6 +24,8 @@ class Solution {
             
         }
         return 0;
+
+        */
         
         
     }
