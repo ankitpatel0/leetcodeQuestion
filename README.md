@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [1929-concatenation-of-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1929-concatenation-of-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
 ## Tree
 |  |
@@ -36,12 +38,14 @@
 | [0070-climbing-stairs](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -110,6 +115,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
