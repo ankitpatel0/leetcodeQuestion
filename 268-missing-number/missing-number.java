@@ -1,5 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        int n = nums.length;
+
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+        for (int i = 0; i <= n; i++) {
+            if (!set.contains(i)) {
+                return i;
+            }
+        }
+
+        return -1;
+       
+       
+       /*
         Arrays.sort(nums);
 
         for (int i = 0; i < nums.length; i++) {
@@ -9,6 +25,7 @@ class Solution {
         }
 
         return nums.length;
+        */
 
         /*  for(int i =1;i<=n;i++){
             int flag=0;
