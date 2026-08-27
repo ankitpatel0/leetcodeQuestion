@@ -2,7 +2,16 @@ class Solution {
     public int missingNumber(int[] nums) {
 
         int n = nums.length;
+        int sum = 0;
+        int totalsum = n * (n + 1) / 2;
+        for (int i = 0; i < n; i++) {
+            sum = sum + nums[i];
+            
+        }
+        return totalsum - sum;
+        
 
+        /*
         HashSet<Integer> set = new HashSet<>();
         for (int i=0;i<n;i++) {
             set.add(nums[i]);
@@ -12,9 +21,9 @@ class Solution {
                 return i;
             }
         }
-
+        
         return -1;
-
+        */
         /*
         Arrays.sort(nums);
         
