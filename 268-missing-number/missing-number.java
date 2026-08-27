@@ -8,7 +8,7 @@ class Solution {
             sum = sum + nums[i];
             
         }
-        return totalsum - sum;
+        return totalsum-sum;
         
 
         /*
