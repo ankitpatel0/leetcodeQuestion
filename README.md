@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1929-concatenation-of-array) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
 ## Tree
 |  |
@@ -59,6 +61,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -103,6 +106,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -117,6 +121,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
