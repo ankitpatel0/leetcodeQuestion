@@ -126,4 +126,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
