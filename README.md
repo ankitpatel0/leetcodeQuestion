@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
@@ -75,10 +76,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1757-recyclable-and-low-fat-products) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
