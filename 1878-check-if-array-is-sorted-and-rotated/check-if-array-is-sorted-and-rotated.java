@@ -1,20 +1,58 @@
 class Solution {
     public boolean check(int[] nums) {
+        int n = nums.length;
 
-        int count = 0;
+        int[] sorted = new int[n];
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int r = 0; r < n; r++) {
+            int idx = 0;
 
-            if (nums[i] > nums[(i + 1) % nums.length]) {
-                count++;
+            for (int i = r; i < n; i++) {
+                sorted[idx] = nums[i];
+                idx++;
             }
 
-            if (count > 1) {
-                return false;
+            for (int i = 0; i < r; i++) {
+                sorted[idx] = nums[i];
+                idx++;
+            }
+            // check if sorted;
+            boolean isSorted = true;
+            for (int i = 0; i < n - 1; i++) {
+                if (sorted[i] > sorted[i + 1]) {
+                    isSorted = false;
+                    break;
+                }
+            }
+
+            if (isSorted) {
+                return true;
             }
         }
 
-        return true;
+        return false;
+    
+
+
+
+
+// class Solution {
+//     public boolean check(int[] nums) {
+
+//         int count = 0;
+
+//         for (int i = 0; i < nums.length; i++) {
+
+//             if (nums[i] > nums[(i + 1) % nums.length]) {
+//                 count++;
+//             }
+
+//             if (count > 1) {
+//                 return false;
+//             }
+//         }
+
+//         return true;
 
 
 
