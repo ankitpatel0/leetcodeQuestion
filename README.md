@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 ## Recursion
