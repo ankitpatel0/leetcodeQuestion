@@ -6,7 +6,7 @@ class Solution {
         
         for (int i=0; i<nums.length; i++){
             
-            if(!map.isEmpty() && map.containsKey(nums[i])){
+            if(map.containsKey(nums[i])){
                 result[0] = map.get(nums[i]);
                 result[1] = i;
                 
