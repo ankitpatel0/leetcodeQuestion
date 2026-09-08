@@ -61,6 +61,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
